@@ -4,7 +4,7 @@ function doToElementsInArray(array,callback) {
 }
 
 // Add your changeCompletely() function here
-function changeCompletely(arary) {
+function changeCompletely(array) {
    array.forEach(element=>{
      element='';
    });
