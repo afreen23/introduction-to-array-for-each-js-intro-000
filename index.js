@@ -1,4 +1,7 @@
 // Add your doToElementsInArray() function here:
-var doToElementsInArray= () => {};
+var doToElementsInArray= (array,callback) => {
+  array.forEach(callback);
+};
 
-// Add your changeCompletely() function here:
+// Add your changeCompletely() function here
+var changeCompletely-() => {}
