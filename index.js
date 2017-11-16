@@ -8,4 +8,3 @@ function doToElementsInArray(array,callback) {
 function changeCompletely(element) {
    element='';
   }
-
