@@ -5,7 +5,7 @@ function doToElementsInArray(array,callback) {
 }
 
 // Add your changeCompletely() function here
-function changeCompletely(element,index,array) {
+function changeCompletely(element) {
    element=Math.floor(Math.random()*100).toString()+` ${element}s!!!`;
   }
 //doToElementsInArray(array,changeCompletely);
