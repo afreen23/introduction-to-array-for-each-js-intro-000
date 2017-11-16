@@ -1,5 +1,5 @@
 // Add your doToElementsInArray() function here:
-function doToElementsInArray(callback,array) {
+function doToElementsInArray(array) {
   
 }
 
